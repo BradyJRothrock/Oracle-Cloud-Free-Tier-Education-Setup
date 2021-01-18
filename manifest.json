@@ -1,0 +1,20 @@
+{
+	"tutorials": [
+		{
+			"title": "Part 1: Getting Setup with Oracle Free Tier for Education",
+			"description": "Creating an Oracle Free Tier for Education account",
+			"partnumber": "Ennnnn_01",
+			"publisheddate": "02/18/2020",
+			"contentid": "12nnnn",
+			"filename": "LabGuide100.md"
+		},
+		{
+			"title": "Part 2: Autonomous Database Startup Guide",
+			"description": "Creating and starting an Autonomous Database",
+			"partnumber": "Ennnnn_01",
+			"publisheddate": "02/18/2020",
+			"contentid": "12nnnn",
+			"filename": "LabGuide200.md"
+		}
+	]
+}
