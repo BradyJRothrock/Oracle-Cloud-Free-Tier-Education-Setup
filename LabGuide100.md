@@ -31,11 +31,12 @@ Click Next to continue with the registration.
 
 You should now see this next screen in Figure 4. This is notification that you are eligible for the Special 365 day Program.
 
+TODO: Figure 4 Student Program Qualification
+
 **If you do not see this screen STOP! Verify your Email Address again and try again. Do not continue if you don't see this dialog box. Contact your instructor if you cannot fix this.**
 
 **Do not give Oracle a credit card number, as it is not required for the Student account.**
 
-TODO: Figure 4 Student Program Qualification
 
 Click the `OK` button and then click `Next` to continue.
 
