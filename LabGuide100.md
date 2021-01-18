@@ -44,7 +44,7 @@ You will be asked for an Account Name and this is not your email address.
 
 Enter one that unique to you. A recommendaation is to use your first initial and last name.
 
-**Remember this as you will always need it to sign in.**
+*Remember this as you will always need it to sign in.*
 
 Next you will be asked to choose a region. Ashburn or Phoenix are the proper options.
 
@@ -107,8 +107,7 @@ TODO: Free tier image?
 
 you need to create a new cloud account using the email account that Oracle Academy send you.
 
-Hint: You can bookmark this page and it will go directly to the prompt without having to go to oracle.com again.
-
+*Hint: You can bookmark this page and it will go directly to the prompt without having to go to oracle.com again.*
 
 
 
