@@ -1,5 +1,13 @@
 ## Part 1 - Getting Setup with Oracle Free Tier for Education
 
+Students in this course will be using Oracle Cloud Free Tier Account for Education. This cloud service provides Free Oracle Autonomous Database instances that will be used in class. Additionally, once registered you get 365 days and $300 free money to use on Paid Cloud Services that will also be used in class. Please note that this Free Tier is different from the Normal Oracle Free Tier in that you are not required to provide a credit card and you have 365 days instead of 30 days of use for non-free services.
+
+If you already have a registered Oracle Free Tier for Education account and you have more than 30 days left on the account you can processed to Part 2.
+
+[Part 2](/Oracle-Cloud-Free-Tier-Education-Setup/?lab=part-2--autonomous-database-startup-guide)
+
+## Setup Oracle Free Tier for Education
+
 In order to get the Oracle Cloud Free Tier with 365 days of $300 you will get an email from Oracle Academy asking you to register.
 
 The email will come from Oracle Academy or no_reply@oracle.com. The email will indicate that your instructor has requested your account and will look something like the one instructors get, shown in Figure 1.
