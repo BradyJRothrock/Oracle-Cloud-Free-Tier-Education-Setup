@@ -49,30 +49,30 @@ You should now see this next screen in Figure 4. This is notification that you a
 **Do not give Oracle a credit card number, as it is not required for the Student account.**
 
 
-Click the `Select Offer` button to continue.
+Click the **Select Offer** button to continue.
 
-You will be asked for a `Password`, `Account Name` (this is not your email address), and `Home Region`. 
+You will be asked for a **Password**, **Account Name** (this is not your email address), and **Home Region**. 
 
 Enter a valid password follwoing the requirements and keep this handy.
 
-You can skip `Company Name` as it is optional.
+You can skip **Company Name** as it is optional.
 
-Enter an `Account Name` that is unique to you. A recommendaation is to use your first initial and last name or your fullname.
+Enter an **Account Name** that is unique to you. A recommendaation is to use your first initial and last name or your fullname.
 
 *Remember this as you will always need it to sign in.*
 
-Next you will be asked to choose a `Home Region`. Ashburn or Phoenix are the proper options.
+Next you will be asked to choose a **Home Region**. Ashburn or Phoenix are the proper options.
 
 <figure>
     <img src="images/100/5_registration.png" style="text-align:center">
     <figcaption style="text-align:center;">Figure 5<figcaption>
 </figure>
 
-Now click `Continue` to proceed.
+Now click **Continue** to proceed.
 
 You will be asked now to provide your address and phone information as shown in Figures 6 & 7. 
 
-Check the box to accept the free trial agreement and click `Start my free trial`.
+Check the box to accept the free trial agreement and click **Start my free trial**.
 
 <figure>
     <img src="images/100/6_address.png" style="text-align:center">
@@ -84,7 +84,7 @@ Check the box to accept the free trial agreement and click `Start my free trial`
     <figcaption style="text-align:center;">Figure 7<figcaption>
 </figure>
 
-Now your account will be provisioned. When the process is finished it will eventually bring up the Login Screen (Figure 9). If you receive an error instead of the Login Screen check your email for a confirmation message from `Oracle Cloud` with a link to `Sign In to Oracle Cloud` (Figure 8).
+Now your account will be provisioned. When the process is finished it will eventually bring up the Login Screen (Figure 9). If you receive an error instead of the Login Screen check your email for a confirmation message from **Oracle Cloud** with a link to **Sign In to Oracle Cloud** (Figure 8).
 
 <figure>
     <img src="images/100/8_login.png" style="text-align:center">
@@ -124,7 +124,7 @@ At this point consider bookmarking this screen (Oracle Cloud Sign-on).
 
 Enter your Account Name (Figure 12).
 
-If you forgot your Account Name it's in your registration email as `Cloud Account`.
+If you forgot your Account Name it's in your registration email as **Cloud Account**.
 
 <figure>
     <img src="images/100/11_cloud_tenant.png" style="text-align:center">
@@ -161,3 +161,5 @@ Note: If you happen to see that you only have 30 days of Trial then you did not 
 You will need to create a new cloud account using the email account that Oracle Academy contacted you with.
 
 *Hint: You can bookmark this page and it will go directly to the prompt without having to go to oracle.com again.*
+
+[Part 2: Autonomous Database Startup Guide](/Oracle-Cloud-Free-Tier-Education-Setup/?lab=part-2-autonomous-database-startup-guide)

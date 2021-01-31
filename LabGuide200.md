@@ -27,7 +27,9 @@
 - Deployment Type: Shared Infrastructure.
 
 - Always Free: Move this selector to the right so that the provisioning workflow shows only the Always Free
-configuration options. Note that the Core CPU count and Storage configuration fields are disabled when provisioning an Always Free Autonomous Database. Your database will have 1 OCPU, 8 GB of memory, and 20 GB of storage.m*Note: if failing to select Always Free your credits will be charged*
+configuration options. Note that the Core CPU count and Storage configuration fields are disabled when provisioning an Always Free Autonomous Database. Your database will have 1 OCPU, 8 GB of memory, and 20 GB of storage.
+
+*Note: if failing to select Always Free your credits will be charged*
 
 <figure>
     <img src="images/200/3_configuration.png" style="text-align:center">
@@ -97,7 +99,7 @@ At any point you can sign in to your Cloud account and return to your database b
 
 11. If you save a shortcut to go directly to this Cloud Database Page you will go through the typical Cloud Login process and then land on the Cloud Database Page listing your configured Database Instances.
 
-- When a database is open you can click on various things like `More Actions` to Start/Stop/Terminate, change Admin Password or use Apex. If you click on the `Tools` tab you'll find `SQL Developer Web`. You can also click on the DB Connection button to create wallet file to connect to ADW using SQLNet or other tools, like SQLDeveloper Desktop or Oracle Analytics Desktop which we will do later in the course.
+- When a database is open you can click on various things like **More Actions** to Start/Stop/Terminate, change Admin Password or use Apex. If you click on the **Tools** tab you'll find **SQL Developer Web**. You can also click on the DB Connection button to create wallet file to connect to ADW using SQLNet or other tools, like SQLDeveloper Desktop or Oracle Analytics Desktop which we will do later in the course.
 
 ## Restarting your Autonomous Database if it has stopped due to inactivity:
 
@@ -110,7 +112,7 @@ At any point you can sign in to your Cloud account and return to your database b
 
 - If this happens, you are allowed to restart the database and continue using it. If your Always Free Autonomous Database remains in a stopped state for 90 days, the resource will be reclaimed by the Database service.
 
-1. Go to the ADW instance page and restart the Database click the Start button in the `More Actions` drop down.
+1. Go to the ADW instance page and restart the Database click the Start button in the **More Actions** drop down.
 
 <figure>
     <img src="images/200/11_start_db.png" style="text-align:center">
@@ -136,7 +138,7 @@ At any point you can sign in to your Cloud account and return to your database b
 
 ## Downloaded wallet file and testing database:
 
-1. Click on the DB Connection Button (Tab) and select `Download Wallet`.
+1. Click on the DB Connection Button (Tab) and select **Download Wallet**.
 
 <figure>
     <img src="images/200/13_wallet.png" style="text-align:center">
@@ -144,22 +146,24 @@ At any point you can sign in to your Cloud account and return to your database b
 </figure>
 
 2. It will ask you to set a password and Download the file. Remember where you stored this wallet file you will need it later. 
+
 *FYI it will call the file with your Instance name + wallet.zip* 
-*Also do not unzip this file as you will need it zipped to use*
+
+*Do not unzip this file as you will need it zipped to use*
 
 <figure>
     <img src="images/200/14_wallet_password.png" style="text-align:center">
     <figcaption style="text-align:center;">Figure 15<figcaption>
 </figure>
 
-3. Close the `Database Connection` window and select the `Tools` tab and `Open SQL Developer Web`.
+3. Close the **Database Connection** window and select the **Tools** tab and **Open SQL Developer Web**.
 
 <figure>
     <img src="images/200/15_sqldeveloper_web.png" style="text-align:center">
     <figcaption style="text-align:center;">Figure 16<figcaption>
 </figure>
 
-4. Enter the `Admin` credentials creating when intializing our Database.
+4. Enter the **Admin** credentials creating when intializing our Database.
 
 <figure>
     <img src="images/200/16_sqldeveloper_web_login.png" style="text-align:center">
