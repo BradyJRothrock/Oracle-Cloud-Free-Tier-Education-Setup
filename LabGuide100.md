@@ -19,7 +19,9 @@ The email will come from Oracle Academy or no_reply@oracle.com. The email will i
 
 This email has the link the you need to follow to register for the account. Before clicking on the link and registering you need to determine the email address that is linked to the Education Program. It is the only one that gives you 365 days to use the Free $300 credits.
 
-Since KU email accounts can have several aliases you need to determine which email was given to Oracle. Go to the email and click on, or right click on, the actual email address that Oracle used. As you can see in Figure 2 the email used is shown and circled. Check your email find the email and get the email used. *Make note of this email. You will need it for the next steps.*
+Since KU email accounts can have several aliases you need to determine which email was given to Oracle. Go to the email and click on, or right click on, the actual email address that Oracle used. As you can see in Figure 2 the email used is shown and circled. Check your email find the email and get the email used. 
+
+*Make note of this email. You will need it for the next steps.*
 
 <figure>
     <img src="images/100/2_email_confirm.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;" class="captions">
@@ -33,7 +35,9 @@ Once you have the email address click on the “Click Here” link on the email.
     <figcaption style="text-align:center;">Figure 3<figcaption>
 </figure>
 
-Enter the email address that Oracle Academy used to send you the email. *Do not use any other email address or you will be signing up for a 30 day account instead of the 365 day education account.*
+Enter the email address that Oracle Academy used to send you the email. 
+
+*Do not use any other email address or you will be signing up for a 30 day account instead of the 365 day education account.*
 
 Click Next to continue with the registration.
 
@@ -84,7 +88,7 @@ Check the box to accept the free trial agreement and click **Start my free trial
     <figcaption style="text-align:center;">Figure 7<figcaption>
 </figure>
 
-Now your account will be provisioned. When the process is finished it will eventually bring up the Login Screen (Figure 9). If you receive an error instead of the Login Screen check your email for a confirmation message from **Oracle Cloud** with a link to **Sign In to Oracle Cloud** (Figure 8).
+Now your account will be provisioned. When the process is finished it will eventually bring up the Login Screen (Figure 8). If you receive an error instead of the Login Screen check your email for a confirmation message from **Oracle Cloud** with a link to **Sign In to Oracle Cloud** (Figure 9).
 
 <figure>
     <img src="images/100/8_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
@@ -110,7 +114,7 @@ It will take a while to provision, potentially as much as an hour or so, to comp
 Sign out of your account now and wait for at least 1 hour. 
 
 Sign back in using the following login method:
-- Go to oracle.com URL
+- Go to [www.oracle.com](www.oracle.com)
 - Click on Menu Item > View Accounts
 
 Click on Sign-in to Cloud (Figure 11).

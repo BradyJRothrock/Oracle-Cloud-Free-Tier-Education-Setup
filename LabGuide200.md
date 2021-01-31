@@ -2,7 +2,7 @@
 
 ## Creating Autonomous Database
 
-1. Sign into your Cloud account and you will be presented with your dashboard. Select Autonomous Transaction Processing, Create an Autonomous Data Warehouse database.
+1. Sign into your Cloud account and you will be presented with your dashboard. Select Create an Autonomous Data Warehouse database.
 
 <figure>
     <img src="images/200/1_adw.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
@@ -13,7 +13,9 @@
 
 - Display Name: A user-friendly description or other information that helps you easily identify the resource. The display name does not have to be unique, and you can change it whenever you like. Avoid entering confidential information. Recommend using ADW+your initials + 01
 
-- Database Name: The database name must consist of letters and numbers only, starting with a letter. The maximum length is 14 characters. Avoid entering confidential information. You can use the same as Displayname without Spaces! *I suggest that you give your database name that is easy to remember. I use something like BRADW01 where “BR” are my initials.*
+- Database Name: The database name must consist of letters and numbers only, starting with a letter. The maximum length is 14 characters. Avoid entering confidential information. You can use the same as Displayname without Spaces! 
+
+*I suggest that you give your database name that is easy to remember. I use something like BRADW01 where “BR” are my initials.*
 
 <figure>
     <img src="images/200/2_db_names.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
