@@ -796,6 +796,10 @@ img:not(figure) {
     display: inline !important;
 }
 
+img.captions{
+    display: block;
+}
+
 blockquote {
     border-left: 8px solid #fafafa;
     padding: 1rem;

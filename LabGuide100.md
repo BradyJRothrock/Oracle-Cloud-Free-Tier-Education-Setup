@@ -13,7 +13,7 @@ In order to get the Oracle Cloud Free Tier with 365 days of $300 you will get an
 The email will come from Oracle Academy or no_reply@oracle.com. The email will indicate that your instructor has requested your account and will look something like the one instructors get, shown in Figure 1.
 
 <figure>
-    <img src="images/100/1_email.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/100/1_email.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;" class="captions">
     <figcaption style="text-align:center;">Figure 1<figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ This email has the link the you need to follow to register for the account. Befo
 Since KU email accounts can have several aliases you need to determine which email was given to Oracle. Go to the email and click on, or right click on, the actual email address that Oracle used. As you can see in Figure 2 the email used is shown and circled. Check your email find the email and get the email used. *Make note of this email. You will need it for the next steps.*
 
 <figure>
-    <img src="images/100/2_email_confirm.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/100/2_email_confirm.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;" class="captions">
     <figcaption style="text-align:center;">Figure 2<figcaption>
 </figure>
 
