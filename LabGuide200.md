@@ -5,7 +5,7 @@
 1. Sign into your Cloud account and you will be presented with your dashboard. Select Create an Autonomous Data Warehouse database.
 
 <figure>
-    <img src="images/200/1_adw.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/1_adw.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 1<figcaption>
 </figure>
 
@@ -18,7 +18,7 @@
 *I suggest that you give your database name that is easy to remember. I use something like BRADW01 where “BR” are my initials.*
 
 <figure>
-    <img src="images/200/2_db_names.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/2_db_names.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 2<figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ configuration options. Note that the Core CPU count and Storage configuration fi
 *Note: if failing to select Always Free your credits will be charged*
 
 <figure>
-    <img src="images/200/3_configuration.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/3_configuration.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 3<figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ password that meets The USERNAME is always ADMIN – Remember this! the followin
 Use this password when accessing the Autonomous Database service console and when using an SQL client tool. WRITE THIS DOWN ALONG WITH THE USER NAME --- YOU WILL USE THIS A LOT!!!
 
 <figure>
-    <img src="images/200/4_admin.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/4_admin.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 4<figcaption>
 </figure>
 
@@ -64,21 +64,21 @@ Tags: Optionally, you can apply tags. If you have permissions to create a resour
 4. Click **Create Autonomous Data Warehous Database**.
 
 <figure>
-    <img src="images/200/5_create_adw.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/5_create_adw.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 5<figcaption>
 </figure>
 
 5. It may take several minutes for your database to be provisioned, while this is happening you will see this screen :
 
 <figure>
-    <img src="images/200/6_provisioning.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/6_provisioning.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 6<figcaption>
 </figure>
 
 6. When this process is completed, you will now see the state set to available. This means that your database instance is created.
 
 <figure>
-    <img src="images/200/7_available.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/7_available.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 7<figcaption>
 </figure>
 
@@ -88,14 +88,14 @@ Tags: Optionally, you can apply tags. If you have permissions to create a resour
 At any point you can sign in to your Cloud account and return to your database by using the hamburger icon in the top left corner and selecting Autonomous Data Warehouse.
 
 <figure>
-    <img src="images/200/8_select_adw.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/8_select_adw.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 8<figcaption>
 </figure>
 
 10. This will return you to your database page where you can select your live database.
 
 <figure>
-    <img src="images/200/9_available_dbs.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/9_available_dbs.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 9<figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ At any point you can sign in to your Cloud account and return to your database b
 - If your Always Free Autonomous Database has no activity for a period of 7 consecutive days, the Database service will stop the database automatically. You will also get an email from Oracle when they automatically turn off your Database.
 
 <figure>
-    <img src="images/200/10_db_paused.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/10_db_paused.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 10<figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ At any point you can sign in to your Cloud account and return to your database b
 1. Go to the ADW instance page and restart the Database click the Start button in the **More Actions** drop down.
 
 <figure>
-    <img src="images/200/11_start_db.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/11_start_db.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 11<figcaption>
 </figure>
 
@@ -126,14 +126,14 @@ At any point you can sign in to your Cloud account and return to your database b
 3. You will see a status of “Starting”
 
 <figure>
-    <img src="images/200/12_adw_starting.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/12_adw_starting.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 12<figcaption>
 </figure>
 
 4. After a few moments the database status will change to “Available” and you are then free to continue use.
 
 <figure>
-    <img src="images/200/7_available.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/7_available.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 13<figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ At any point you can sign in to your Cloud account and return to your database b
 1. Click on the DB Connection Button (Tab) and select **Download Wallet**.
 
 <figure>
-    <img src="images/200/13_wallet.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/13_wallet.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 14<figcaption>
 </figure>
 
@@ -154,28 +154,28 @@ At any point you can sign in to your Cloud account and return to your database b
 *Do not unzip this file as you will need it zipped to use*
 
 <figure>
-    <img src="images/200/14_wallet_password.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/14_wallet_password.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 15<figcaption>
 </figure>
 
 3. Close the **Database Connection** window and select the **Tools** tab and **Open SQL Developer Web**.
 
 <figure>
-    <img src="images/200/15_sqldeveloper_web.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/15_sqldeveloper_web.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 16<figcaption>
 </figure>
 
 4. Enter the **Admin** credentials creating when intializing our Database.
 
 <figure>
-    <img src="images/200/16_sqldeveloper_web_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/16_sqldeveloper_web_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 17<figcaption>
 </figure>
 
 5. Click the blue buttons through the tool information tour.
 
 <figure>
-    <img src="images/200/17_tour.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/17_tour.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 17<figcaption>
 </figure>
 
@@ -188,14 +188,14 @@ WHERE OWNER = 'SH'
 ```
 
 <figure>
-    <img src="images/200/18_query.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/18_query.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 18<figcaption>
 </figure>
 
 6. You should see the following results. If you do not let me know immediately.
 
 <figure>
-    <img src="images/200/19_results.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <img src="images/200/19_results.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 19<figcaption>
 </figure>
 
