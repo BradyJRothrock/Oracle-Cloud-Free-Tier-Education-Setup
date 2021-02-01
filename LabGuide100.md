@@ -13,7 +13,7 @@ In order to get the Oracle Cloud Free Tier with 365 days of $300 you will get an
 The email will come from Oracle Academy or no_reply@oracle.com. The email will indicate that your instructor has requested your account and will look something like the one instructors get, shown in Figure 1.
 
 <figure>
-    <img src="images/100/1_email.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;" class="captions">
+    <img src="images/100/1_email.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; " class="captions">
     <figcaption style="text-align:center;">Figure 1<figcaption>
 </figure>
 
@@ -24,14 +24,14 @@ Since KU email accounts can have several aliases you need to determine which ema
 *Make note of this email. You will need it for the next steps.*
 
 <figure>
-    <img src="images/100/2_email_confirm.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;" class="captions">
+    <img src="images/100/2_email_confirm.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; " class="captions">
     <figcaption style="text-align:center;">Figure 2<figcaption>
 </figure>
 
 Once you have the email address click on the “Click Here” link on the email. You will now go to the Cloud Sign-up Page (Figure 3)
 
 <figure>
-    <img src="images/100/3_cloud_signup.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/3_cloud_signup.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 3<figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Click Next to continue with the registration.
 You should now see this next screen in Figure 4. This is notification that you are eligible for the Special 365 day Program.
 
 <figure>
-    <img src="images/100/4_student_offer.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/4_student_offer.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 4<figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Enter an **Account Name** that is unique to you. A recommendaation is to use you
 Next you will be asked to choose a **Home Region**. Ashburn or Phoenix are the proper options.
 
 <figure>
-    <img src="images/100/5_registration.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/5_registration.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 5<figcaption>
 </figure>
 
@@ -79,24 +79,24 @@ You will be asked now to provide your address and phone information as shown in 
 Check the box to accept the free trial agreement and click **Start my free trial**.
 
 <figure>
-    <img src="images/100/6_address.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/6_address.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 6<figcaption>
 </figure>
 
 <figure>
-    <img src="images/100/7_phone.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/7_phone.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 7<figcaption>
 </figure>
 
 Now your account will be provisioned. When the process is finished it will eventually bring up the Login Screen (Figure 8). If you receive an error instead of the Login Screen check your email for a confirmation message from **Oracle Cloud** with a link to **Sign In to Oracle Cloud** (Figure 9).
 
 <figure>
-    <img src="images/100/8_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/8_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 8<figcaption>
 </figure>
 
 <figure>
-    <img src="images/100/9_email_confirmation.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/9_email_confirmation.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 9<figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ You need to enter your username and password to log you in to the Oracle Cloud h
 It will take a while to provision, potentially as much as an hour or so, to complete and you will see that you have a Trial Balance of $300 that is good for 365 days. 
 
 <figure>
-    <img src="images/100/12_main_page.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/12_main_page.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 10<figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ Click on Sign-in to Cloud (Figure 11).
 At this point consider bookmarking this screen (Oracle Cloud Sign-on).
 
 <figure>
-    <img src="images/100/10_cloud_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/10_cloud_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 11<figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Enter your Account Name (Figure 12).
 If you forgot your Account Name it's in your registration email as **Cloud Account**.
 
 <figure>
-    <img src="images/100/11_cloud_tenant.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/11_cloud_tenant.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 12<figcaption>
 </figure>
 
@@ -140,14 +140,14 @@ Click Next.
 Now enter in your email address and password used to create the account (Figure 13).
 
 <figure>
-    <img src="images/100/8_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/8_login.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 13<figcaption>
 </figure>
 
 You should now see the Your Oracle Cloud Main Home Page
 
 <figure>
-    <img src="images/100/12_main_page.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/12_main_page.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 14<figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ You are done!
 Notice you should have money available in your trial credits and Trial Days should be more than 30.
 
 <figure>
-    <img src="images/100/14_credits_and_days.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 75%;">
+    <img src="images/100/14_credits_and_days.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; ">
     <figcaption style="text-align:center;">Figure 15<figcaption>
 </figure>
 
