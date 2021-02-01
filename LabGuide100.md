@@ -114,7 +114,7 @@ It will take a while to provision, potentially as much as an hour or so, to comp
 Sign out of your account now and wait for at least 1 hour. 
 
 Sign back in using the following login method:
-- Go to [www.oracle.com](www.oracle.com)
+- Go to [www.oracle.com](http://www.oracle.com)
 - Click on Menu Item > View Accounts
 
 Click on Sign-in to Cloud (Figure 11).
