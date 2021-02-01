@@ -179,4 +179,24 @@ At any point you can sign in to your Cloud account and return to your database b
     <figcaption style="text-align:center;">Figure 17<figcaption>
 </figure>
 
+5. Enter the following query into the **Worksheet** and click the green run button.
 
+```sql
+SELECT *
+FROM ALL_TABLES
+WHERE OWNER = 'SH'
+```
+
+<figure>
+    <img src="images/200/18_query.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <figcaption style="text-align:center;">Figure 18<figcaption>
+</figure>
+
+6. You should see the following results. If you do not let me know immediately.
+
+<figure>
+    <img src="images/200/19_results.png" style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+    <figcaption style="text-align:center;">Figure 19<figcaption>
+</figure>
+
+You have now successfully completed setting up your Free Education Account and intialization of your first Autonomous Data Warehouse.
